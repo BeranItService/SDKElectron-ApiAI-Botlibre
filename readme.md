@@ -37,3 +37,6 @@ Finalmente, en el archivo "javascripts/ai.js" precisas insertar el ID del avatar
 web.avatar = "<avatarID>";
 ```
 
+# Corrriendo la aplicación
+* Simplemente escribí "npm start"
+
