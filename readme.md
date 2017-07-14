@@ -37,4 +37,3 @@ Finalmente, en el archivo "javascripts/ai.js" precisas insertar el ID del avatar
 web.avatar = "<avatarID>";
 ```
 
-! Pronto versión 2.0 integrada a una aplicación de Node-Express con script funcionando en back-end.
