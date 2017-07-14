@@ -64,7 +64,6 @@ var avatar = "<applicationIDBotlibre";
 
 const {ipcMain} = require('electron')
 ipcMain.on('autentificate', (event, arg) => {
-  console.log(avatar);
   event.sender.send('autentificado', avatar)
 })
 
