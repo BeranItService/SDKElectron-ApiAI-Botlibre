@@ -11,6 +11,8 @@ Código de integración de un bot de API.AI conectado a un avatar animado de Botli
 
 * Un agente en API.AI https://www.api.ai
 * Una cuenta en BotLibre https://www.botlibre.com
+* Node instalado
+* Git
 
 # Instalación
 
